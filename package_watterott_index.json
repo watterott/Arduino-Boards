@@ -1,0 +1,85 @@
+{
+  "packages": [
+    {
+      "name": "watterott",
+      "maintainer": "Watterott electronic",
+      "websiteURL": "http://www.watterott.com",
+      "email": "",
+      "help": {"online": "https://github.com/watterott/Arduino-Boards"},
+
+      "platforms": [
+        {
+          "name": "Watterott SAMD (ARM Cortex-M0+) Boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "contributed",
+          "help": {"online": "https://github.com/watterott/Arduino-Boards"},
+          "url": "https://github.com/watterott/Arduino-Boards/raw/master/files/watterott-samd.zip",
+          "archiveFileName": "watterott-samd-1.0.0.zip",
+          "size": "140159",
+          "boards": [
+            {"name": "SAMW25 (Wattuino RC)"}
+          ]
+        },
+
+        {
+          "name": "Watterott AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "contributed",
+          "help": {"online": "https://github.com/watterott/Arduino-Boards"},
+          "url": "https://github.com/watterott/Arduino-Boards/raw/master/files/watterott-avr.zip",
+          "archiveFileName": "watterott-avr-1.0.0.zip",
+          "size": "1445934",
+          "boards": [
+            {"name": "ATmega32u4"},
+            {"name": "ATmega328PB (Pro Mini PB)"},
+            {"name": "ATmega328P (Pro Mini)"},
+            {"name": "ATtiny841 (Nanite 841)"},
+            {"name": "ATtiny85 (Nanite 85)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "watterott",
+              "name": "micronucleus",
+              "version": "2.0a4"
+            }
+          ]
+        }
+      ],
+
+      "tools": [
+        {
+          "name":"micronucleus",
+          "version":"2.0a4",
+          "systems": [
+            {
+                "host":"i686-mingw32",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-win32.zip",
+                "archiveFileName":"micronucleus-2.0a4-win32.zip",
+                "size":"13187"
+            },
+            {
+                "host":"x86_64-linux-gnu",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-linux64.tar.gz",
+                "archiveFileName":"micronucleus-2.0a4-linux64.tar.gz",
+                "size":"20183"
+            },
+            {
+                "host":"i686-linux-gnu",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-linux32.tar.gz",
+                "archiveFileName":"micronucleus-2.0a4-linux32.tar.gz",
+                "size":"19123"
+            },
+            {
+                "host":"x86_64-apple-darwin",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-osx.tar.gz",
+                "archiveFileName":"micronucleus-2.0a4-osx.tar.gz",
+                "size":"25140"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
