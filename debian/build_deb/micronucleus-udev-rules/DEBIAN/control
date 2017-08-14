@@ -1,0 +1,9 @@
+Package: micronucleus-udev-rules
+Version: 20170814-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash 
+Maintainer: Mattias Schlenker <ms@mattiasschlenker.de>
+Description: A set of udev rules for using Micronucleus boards on Debian or Ubuntu based systems. This packages allows for a point and click installation without having to manually edit udev rules. 
+

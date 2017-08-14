@@ -1,0 +1,5 @@
+#!/bin/sh
+
+udevadm control --reload-rules || echo 'Reloading udev rules failed, please reboot!'
+exit 0
+
