@@ -9,7 +9,7 @@
 
       "platforms": [
         {
-          "name": "Watterott SAMD (ARM Cortex-M0+) Boards",
+          "name": "Watterott SAMD Boards (dependency: Arduino SAMD Boards)",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "contributed",
@@ -23,7 +23,7 @@
         },
 
         {
-          "name": "Watterott AVR Boards",
+          "name": "Watterott AVR Boards (dependency: Arduino AVR Boards)",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "contributed",
