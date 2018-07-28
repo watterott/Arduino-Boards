@@ -2,7 +2,7 @@
 # Watterott SAMD Core and Platform
 # --------------------------------
 
-name=Watterott SAMD Boards (ARM Cortex-M0+)
+name=Watterott SAMD Boards
 version=1.0.0
 
 # BOSSA
