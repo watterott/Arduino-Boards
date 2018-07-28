@@ -5,7 +5,7 @@
       "maintainer": "Watterott electronic",
       "websiteURL": "http://www.watterott.com",
       "email": "",
-      "help": {"online": "https://github.com/watterott/Arduino-Boards"},
+      "help": {"online": "http://learn.watterott.com/arduino/watterott-boards/"},
 
       "platforms": [
         {
@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "1.0.1",
           "category": "contributed",
-          "help": {"online": "https://github.com/watterott/Arduino-Boards"},
+          "help": {"online": "http://learn.watterott.com/arduino/watterott-boards/"},
           "url": "https://github.com/watterott/Arduino-Boards/raw/master/files/watterott-samd.zip",
           "archiveFileName": "watterott-samd-1.0.1.zip",
           "size": "71213",
@@ -27,7 +27,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "contributed",
-          "help": {"online": "https://github.com/watterott/Arduino-Boards"},
+          "help": {"online": "http://learn.watterott.com/arduino/watterott-boards/"},
           "url": "https://github.com/watterott/Arduino-Boards/raw/6e0da6875d015df91341122841ac2dc1cf9ebec4/files/watterott-samd.zip",
           "archiveFileName": "watterott-samd-1.0.0.zip",
           "size": "140159",
@@ -41,7 +41,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "contributed",
-          "help": {"online": "https://github.com/watterott/Arduino-Boards"},
+          "help": {"online": "http://learn.watterott.com/arduino/watterott-boards/"},
           "url": "https://github.com/watterott/Arduino-Boards/raw/6e0da6875d015df91341122841ac2dc1cf9ebec4/files/watterott-avr.zip",
           "archiveFileName": "watterott-avr-1.0.0.zip",
           "size": "1445934",
