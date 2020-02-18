@@ -39,6 +39,31 @@
         {
           "name": "Watterott AVR Boards (dependency: Arduino AVR Boards)",
           "architecture": "avr",
+          "version": "1.0.1",
+          "category": "contributed",
+          "help": {"online": "https://learn.watterott.com/arduino/watterott-boards/"},
+          "url": "https://github.com/watterott/Arduino-Boards/raw/master/files/watterott-avr.zip",
+          "archiveFileName": "watterott-avr-1.0.1.zip",
+          "size": "1446456",
+          "boards": [
+            {"name": "ATmega32u4"},
+            {"name": "ATmega328PB (Pro Mini PB)"},
+            {"name": "ATmega328P (Pro Mini)"},
+            {"name": "ATtiny841 (Nanite 841)"},
+            {"name": "ATtiny85 (Nanite 85)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "watterott",
+              "name": "micronucleus",
+              "version": "2.0a4"
+            }
+          ]
+        },
+
+        {
+          "name": "Watterott AVR Boards (dependency: Arduino AVR Boards)",
+          "architecture": "avr",
           "version": "1.0.0",
           "category": "contributed",
           "help": {"online": "https://learn.watterott.com/arduino/watterott-boards/"},
