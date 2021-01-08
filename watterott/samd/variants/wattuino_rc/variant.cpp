@@ -17,6 +17,7 @@
 */
 
 #include "variant.h"
+#include "Arduino.h"
 
 const PinDescription g_APinDescription[] = {
 
