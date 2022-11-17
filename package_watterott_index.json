@@ -17,6 +17,7 @@
           "url": "https://github.com/watterott/Arduino-Boards/raw/master/files/watterott-samd.zip",
           "archiveFileName": "watterott-samd-1.0.1.zip",
           "size": "71213",
+          "checksum": "SHA-256:a4ef5b00a61a658688aaddc999de8b6653c17d941241ab928611ca1b6d3a43c0",
           "boards": [
             {"name": "Wattuino RC (SAMW25)"}
           ]
@@ -45,6 +46,7 @@
           "url": "https://github.com/watterott/Arduino-Boards/raw/master/files/watterott-avr.zip",
           "archiveFileName": "watterott-avr-1.0.1.zip",
           "size": "1446456",
+          "checksum": "SHA-256:62d86bbc32ebf89f556453a7cc4b79d73863d15889ad089485e540b451b74fab",
           "boards": [
             {"name": "ATmega32u4"},
             {"name": "ATmega328PB (Pro Mini PB)"},
@@ -96,25 +98,29 @@
                 "host":"i686-mingw32",
                 "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-win32.zip",
                 "archiveFileName":"micronucleus-2.0a4-win32.zip",
-                "size":"13187"
+                "size":"13187",
+                "checksum": "SHA-256:11824684d4c623f80125b66c112bcd859df95f8697eeb689da0b8daec0995dca"
             },
             {
                 "host":"x86_64-linux-gnu",
                 "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-linux64.tar.gz",
                 "archiveFileName":"micronucleus-2.0a4-linux64.tar.gz",
-                "size":"20183"
+                "size":"20183",
+                "checksum": "SHA-256:ce50be3083c05c8089b45b5a5078543bf90292a3aacc8a00072b5a536d040ad2"
             },
             {
                 "host":"i686-linux-gnu",
                 "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-linux32.tar.gz",
                 "archiveFileName":"micronucleus-2.0a4-linux32.tar.gz",
-                "size":"19123"
+                "size":"19123",
+                "checksum": "SHA-256:d86fd41e42be40d446a544a6c528809c7fbde18bdfc45f4dbfa87b0744d2ef49"
             },
             {
                 "host":"x86_64-apple-darwin",
                 "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-osx.tar.gz",
                 "archiveFileName":"micronucleus-2.0a4-osx.tar.gz",
-                "size":"25140"
+                "size":"25140",
+                "checksum": "SHA-256:a3c982975f424653f236837b68a5f03583190157fe354329d0e764dec2af5b28"
             }
           ]
         }
