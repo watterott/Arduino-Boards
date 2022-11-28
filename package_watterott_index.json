@@ -32,6 +32,7 @@
           "url": "https://github.com/watterott/Arduino-Boards/raw/6e0da6875d015df91341122841ac2dc1cf9ebec4/files/watterott-samd.zip",
           "archiveFileName": "watterott-samd-1.0.0.zip",
           "size": "140159",
+          "checksum": "SHA-256:f85512202875a9d550079c783c962c145c166ac65dca9ca456a53afd42bf91e7",
           "boards": [
             {"name": "Wattuino RC (SAMW25)"}
           ]
@@ -72,6 +73,7 @@
           "url": "https://github.com/watterott/Arduino-Boards/raw/6e0da6875d015df91341122841ac2dc1cf9ebec4/files/watterott-avr.zip",
           "archiveFileName": "watterott-avr-1.0.0.zip",
           "size": "1445934",
+          "checksum": "SHA-256:96ef0abbdc8f588ab7d91ec643985a72dc1d771ef03f5ca0fe37dc1850f15d8c",
           "boards": [
             {"name": "ATmega32u4"},
             {"name": "ATmega328PB (Pro Mini PB)"},
