@@ -124,50 +124,50 @@
           "systems": [
             {
                 "host":"i686-mingw32",
-                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-i686-mingw32",
-                "archiveFileName":"micronucleus-2.0a4-win32.zip",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-i686-mingw32.zip",
+                "archiveFileName":"micronucleus-2.6-i686-mingw32.zip",
                 "size":"190982",
                 "checksum": "SHA-256:8872bff03fc187b08fb0ade2067f31437377f0038e3afe2aae29a6ccacd23dac"
             },
             {
                 "host":"x86_64-mingw32",
-                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-x86_64-mingw32",
-                "archiveFileName":"micronucleus-2.0a4-win32.zip",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-x86_64-mingw32.zip",
+                "archiveFileName":"micronucleus-2.6-x86_64-mingw32.zip",
                 "size":"192872",
                 "checksum": "SHA-256:480340515e83742ecd274a0c055acc1053b91b8908338165cc84b0401c783352"
             },
             {
                 "host":"i686-linux-gnu",
-                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-i686-linux-gnu.tar",
-                "archiveFileName":"micronucleus-2.0a4-linux32.tar.gz",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-i686-linux-gnu.tar.gz",
+                "archiveFileName":"micronucleus-2.6-i686-linux-gnu.tar.gz",
                 "size":"380564",
                 "checksum": "SHA-256:d71952e401267f85e4107eec85cc3e7b229170acbef74ddd1519793cfe41f478"
             },
             {
                 "host":"x86_64-linux-gnu",
-                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-x86_64-linux-gnu.tar",
-                "archiveFileName":"micronucleus-2.0a4-linux64.tar.gz",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-x86_64-linux-gnu.tar.gz",
+                "archiveFileName":"micronucleus-2.6-x86_64-linux-gnu.tar.gz",
                 "size":"439218",
                 "checksum": "SHA-256:8d563f44018541e8d000126e48f416604fe9d09336421b1eb05db78500ba4ae6"
             },
             {
                 "host":"x86_64-apple-darwin14",
-                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-x86_64-apple-darwin.tar",
-                "archiveFileName":"micronucleus-2.0a4-osx.tar.gz",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-x86_64-apple-darwin.tar.gz",
+                "archiveFileName":"micronucleus-2.6-x86_64-apple-darwin.tar.gz",
                 "size":"8729",
                 "checksum": "SHA-256:c4178e68171d533cb33ccfea0a539671c10e8059eca98d7e0b8c26b84f62e644"
             },
             {
                 "host":"arm-linux-gnueabihf",
-                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-arm-linux-gnueabihf.tar",
-                "archiveFileName":"micronucleus-2.0a4-linux32.tar.gz",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-arm-linux-gnueabihf.tar.gz",
+                "archiveFileName":"micronucleus-2.6-arm-linux-gnueabihf.tar.gz",
                 "size":"270010",
                 "checksum": "SHA-256:bf2ecdddfae9f13b67654305d16e2ea792df9836415fcebfc2898c01d2ff1145"
             },
             {
                 "host":"aarch64-linux-gnu",
-                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-aarch64-linux-gnu.tar",
-                "archiveFileName":"micronucleus-2.0a4-linux64.tar.gz",
+                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-aarch64-linux-gnu.tar.gz",
+                "archiveFileName":"micronucleus-2.6-aarch64-linux-gnu.tar.gz",
                 "size":"325366",
                 "checksum": "SHA-256:070de2f773133f48de9d88c568cb80766eec0a0a673aae2892f4e3f2cbb0a902"
             }
