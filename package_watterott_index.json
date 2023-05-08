@@ -156,7 +156,7 @@
                 "archiveFileName":"micronucleus-2.0a4-osx.tar.gz",
                 "size":"8729",
                 "checksum": "SHA-256:c4178e68171d533cb33ccfea0a539671c10e8059eca98d7e0b8c26b84f62e644"
-            }
+            },
             {
                 "host":"arm-linux-gnueabihf",
                 "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-arm-linux-gnueabihf.tar",
@@ -170,7 +170,7 @@
                 "archiveFileName":"micronucleus-2.0a4-linux64.tar.gz",
                 "size":"325366",
                 "checksum": "SHA-256:070de2f773133f48de9d88c568cb80766eec0a0a673aae2892f4e3f2cbb0a902"
-            },
+            }
           ]
         },
         {
